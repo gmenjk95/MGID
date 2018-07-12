@@ -1,0 +1,24 @@
+/* reset */
+$min-width: 320px; 
+$max-width: 970px; 
+$base-bg: #FFF; 
+$base-font-size: 15px; 
+$base-line-height: 25px; 
+$base-font-family: "Roboto", sans-serif; 
+$custom-font-family: sans-serif; 
+$link-color: #444444;
+$default-transition: all 0.2s linear;
+
+/* main variables */
+
+//text, titles
+$text-color: #444444;
+$title-color: #444444;
+$title-font-family: $base-font-family;
+
+$font-size-h1: 45px;
+$line-height-h1: normal;
+$font-size-h2: 35px;
+$line-height-h2: normal;
+$font-size-h3: 25px;
+$line-height-h3: normal;

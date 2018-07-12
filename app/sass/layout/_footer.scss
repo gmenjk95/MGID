@@ -1,0 +1,65 @@
+
+/*
+================================================================================
+|                                     FOOTER                                   |
+================================================================================
+*/
+footer{
+	background: #2c3e50;
+	text-align:left;
+	width:100%;
+	min-width: $min-width;
+	order: 3;	
+    -webkit-order: 3;	
+    position: relative;
+    height: 44px;
+    text-align: center;
+}
+.footer-copy {
+	font-size: 15px;
+	color: #fff;
+	font-weight: 300;
+	line-height: 44px;
+}
+
+@media screen and (min-width: 1200px) {
+
+}
+
+@media screen and (max-width: 1200px) {
+	
+}
+
+@media screen and (min-width: 992px){
+	
+}
+
+@media screen and (max-width: 991px) {
+	
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	
+}
+
+@media screen and (max-width: 767px) {
+	
+}
+
+@media screen and (max-width: 640px) {
+	
+}
+
+@media screen and (max-width: 575px) {
+	
+}
+
+@media screen and (max-width: 480px) {
+	
+}
+
+
+@media screen and (max-width: 360px) {
+
+}
+
